@@ -31,14 +31,9 @@
 ---
 
 ## 🤝 Let's Connect
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+
+📧 Mail: markmenezes198@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/mark-menezes-aa06202b7/
 
 ---
 
