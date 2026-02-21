@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mark Menezes</h1>
+<h3 align="center">💻 IT Engineering Student | 🔐 Cyber Security Enthusiast | 🚀 Future Security Engineer</h3>
 
-<!--
-**MarkMenezes7/MarkMenezes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Information+Technology+Student;Cyber+Security+Learner;Web+Developer;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me
+
+* 🎓 B.E. Information Technology Student
+* 🔐 Honours in Cyber Security
+* 💻 Interested in Ethical Hacking & Networking
+* 🌱 Currently learning **Cyber Security & Web Development**
+* ⚡ Fun fact: I love solving technical problems
+
+---
+
+## 🚀 Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,java,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarkMenezes7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMenezes7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMenezes7&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MarkMenezes7&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## 💻 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MarkMenezes7&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+```python
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Mark Menezes"
+        self.role = "IT Student"
+        self.skills = ["Cyber Security", "Web Development", "Programming"]
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+---
+
+⭐ *Always learning. Always building.*
