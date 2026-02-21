@@ -66,24 +66,4 @@
 </p>
 
 ---
-
-## ⚡ Fun Zone
-
-```python
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Mark Menezes"
-        self.role = "IT Student"
-        self.skills = ["Cyber Security", "Web Development", "Programming"]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
----
-
 ⭐ *Always learning. Always building.*
