@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Menezes</h1>
-<h3 align="center">💻 IT Engineering Student | 🔐 Cyber Security Enthusiast | 🚀 Future Security Engineer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Information+Technology+Student;Cyber+Security+Learner;Web+Developer;Always+Learning+New+Things" />
-</p>
+<h3 align="center">💻 IT Engineering Student</h3>
 
 ---
 
