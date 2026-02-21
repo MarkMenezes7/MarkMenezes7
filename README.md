@@ -15,14 +15,13 @@
 
 <p align="left"> 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,react,linux,mysql,docker,vscode,aws,ts" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,react,linux,mysql,docker,vscode,aws,ts,flask,express,python,sqlite,flutter,androidstudio,git,github" /> 
 
 <br><br> 
 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
