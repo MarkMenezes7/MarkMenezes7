@@ -13,11 +13,13 @@
 ---
 
 ## 🚀 Technologies & Tools
-<p align="center">
+## 🚀 Technologies & Tools 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,react,linux" />
+<p align="left"> 
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,react,linux" /> 
+
+<br><br> 
 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
