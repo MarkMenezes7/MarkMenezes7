@@ -15,7 +15,7 @@
 ## 🚀 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,java,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=kalilinux,burpsuite,html,css,js,react,nodejs,python,c,c++,java,mysql,git,github,vscode,linux" />
 </p>
 
 ---
