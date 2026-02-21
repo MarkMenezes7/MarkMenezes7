@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mark Menezes</h1>
+<h1 align="center">Hi, I'm Mark Menezes</h1>
 <h3 align="center">💻 IT Engineering Student</h3>
 
 ---
 
 ## 🌍 About Me
 
-* 🎓 B.E. Information Technology Student
+* 🎓 B.E. Information Technology
 * 🔐 Honours in Cyber Security
-* 💻 Interested in Ethical Hacking & Networking
-* 🌱 Currently learning **Cyber Security & Web Development**
-* ⚡ Fun fact: I love solving technical problems
+* 💻 Interested in Web Development, Ethical Hacking & Networking
+* 🌱 Currently learning **Web Development & Cyber Security**
 
 ---
 
