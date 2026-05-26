@@ -7,7 +7,7 @@
 * 🎓 B.E. Information Technology
 * 🔐 Honours in Cyber Security
 * 💻 Interested in Web Development, Ethical Hacking & Networking
-* 🌱 Currently learning **Web Development & Cyber Security**
+* 🌱 Currently learning **Full Stack Development & Cyber Security**
 
 ---
 
