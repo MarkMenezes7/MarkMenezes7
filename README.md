@@ -24,7 +24,7 @@
 |--------|-------------|
 | 🚑 **CodeRedAI** | Real-time emergency medical dispatch platform built at HackX 2.0, coordinating ambulances, hospitals and admins for faster emergency response |
 | 🎣 **PhishGuard** | AI-powered phishing detection platform analyzing URLs via ensemble ML and heuristics, with a real-time Chrome extension |
-| 🚂 **Monitrail** | IoT railway safety system with real-time sensor monitoring and driver drowsiness detection — 2nd Prize at Colloquium 2026 |
+| 🚂 **Monitrail** | IoT railway safety system with real-time sensor monitoring and driver drowsiness detection - 2nd Prize at Colloquium 2026 |
 | 🌊 **FloodSenseAI** | AI-powered flood risk prediction system with proactive SMS/WhatsApp alerts and a live global heatmap |
 | 🏡 **California House Price Predictor** | Full-stack ML app for real estate valuation with interactive map input and explainable AI feature breakdown |
 | 🛡️ **SpamShield** | Hybrid ML + rule-engine spam classifier with explainable predictions and offline JS fallback |
