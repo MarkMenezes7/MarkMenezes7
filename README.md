@@ -33,7 +33,6 @@
 | 🍽️ **Reserve** | Online food ordering and distribution platform |
 | 📚 **Learnify** | Online course learning and management platform |
 ---
----
 
 ## 🤝 Let's Connect
 
