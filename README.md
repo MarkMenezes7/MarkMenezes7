@@ -17,6 +17,7 @@
 <br><br> 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
+
 ## 🛠️ Projects
 
 | Project | Description |
@@ -32,10 +33,6 @@
 | 🍽️ **Reserve** | Online food ordering and distribution platform |
 | 📚 **Learnify** | Online course learning and management platform |
 ---
-
-## 🛠️ Projects
-
-
 ---
 
 ## 🤝 Let's Connect
